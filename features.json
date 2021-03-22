@@ -1,306 +1,290 @@
 [
-  {
-    id: '275e01b2-e075-4ecd-9b8f-ca93b9489d988',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '64098287-65bb-4f00-85d1-09cfd5297f672',
-    createdAt: '31/03/2019',
-    detailed_description:
-      'What is Customer 360? \br\nInstall Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Install Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.',
-    media: '/static/images/install-features/c360-logo.png',
-    title: 'Configurable Customer 360',
-    author: 'Prince Gabalones',
-    type: 'support',
-    version: '1.2',
-    installation_instruction: 'Install Instruction for Customer 360',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '575e01b2-e075-4ecd-9b8f-ca93b9489d98',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '275e01b2-e075-4ecd-9b8f-ca93b9489d982',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '275e01b2-e075-4ecd-9b8f-ca93b9489d983',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '64098287-65bb-4f00-85d1-09cfd5297f67',
-    createdAt: '31/03/2019',
-    detailed_description:
-      'What is Customer 360? \br\nInstall Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Install Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.',
-    media: '/static/images/install-features/c360-logo.png',
-    title: 'Configurable Customer 360',
-    author: 'Prince Gabalones',
-    type: 'support',
-    version: '1.2',
-    installation_instruction: 'Install Instruction for Customer 360',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '275e01b2-e075-4ecd-9b8f-ca93b9489d984',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  },
-  {
-    id: '275e01b2-e075-4ecd-9b8f-ca93b9489d985',
-    createdAt: '27/03/2019',
-    detailed_description:
-      'What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    how_it_works: 'SETUP: \n - download \n - install \n - configure',
-    description:
-      'Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.',
-    media: '/static/images/install-features/chainfrost-logo.png',
-    title: 'Chain Frost',
-    author: 'Mon Keith de Gucena',
-    type: 'guide',
-    version: '1.1',
-    installation_instruction: 'Install Instruction for Chain Frost',
-    form_objects: [
-      {
-        type: 'text',
-        id: 'subdomain',
-        label: 'Subdomain',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'email',
-        id: 'email',
-        label: 'Email',
-        hint: 'type your subdomain here',
-        placeholder: 'type your placeholder here'
-      },
-      {
-        type: 'password',
-        id: 'password',
-        label: 'Password',
-        hint: 'type your password here',
-        placeholder: 'type your placeholder here'
-      }
-    ]
-  }
+   {
+      "id":"275e01b2-e075-4ecd-9b8f-ca93b9489d988",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"64098287-65bb-4f00-85d1-09cfd5297f672",
+      "createdAt":"31/03/2019",
+      "detailed_description":"What is Customer 360? \br\nInstall Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Install Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.",
+      "media":"/static/images/install-features/c360-logo.png",
+      "title":"Configurable Customer 360",
+      "author":"Prince Gabalones",
+      "type":"support",
+      "version":"1.2",
+      "installation_instruction":"Install Instruction for Customer 360",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"575e01b2-e075-4ecd-9b8f-ca93b9489d98",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"275e01b2-e075-4ecd-9b8f-ca93b9489d982",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"275e01b2-e075-4ecd-9b8f-ca93b9489d983",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"64098287-65bb-4f00-85d1-09cfd5297f67",
+      "createdAt":"31/03/2019",
+      "detailed_description":"What is Customer 360? \br\nInstall Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Install Private Custom App that show cases Customer 360 View with a Management Pane that allows configuration of displaying static data without any coding.",
+      "media":"/static/images/install-features/c360-logo.png",
+      "title":"Configurable Customer 360",
+      "author":"Prince Gabalones",
+      "type":"support",
+      "version":"1.2",
+      "installation_instruction":"Install Instruction for Customer 360",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"275e01b2-e075-4ecd-9b8f-ca93b9489d984",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   },
+   {
+      "id":"275e01b2-e075-4ecd-9b8f-ca93b9489d985",
+      "createdAt":"27/03/2019",
+      "detailed_description":"What is HC THEME? \n Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "how_it_works":"SETUP: \n - download \n - install \n - configure",
+      "description":"Configurable no-code HC Theme. Customisable via configurations on the themes setting page. APAC version of Demo Builder.",
+      "media":"/static/images/install-features/chainfrost-logo.png",
+      "title":"Chain Frost",
+      "author":"Mon Keith de Gucena",
+      "type":"guide",
+      "version":"1.1",
+      "installation_instruction":"Install Instruction for Chain Frost",
+      "form_objects":[
+         {
+            "type":"text",
+            "id":"subdomain",
+            "label":"Subdomain",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"email",
+            "id":"email",
+            "label":"Email",
+            "hint":"type your subdomain here",
+            "placeholder":"type your placeholder here"
+         },
+         {
+            "type":"password",
+            "id":"password",
+            "label":"Password",
+            "hint":"type your password here",
+            "placeholder":"type your placeholder here"
+         }
+      ]
+   }
 ]
